@@ -5,15 +5,17 @@
 <p id="introProject">
 blogging is happy. enjoy✌️
 <hr />
-'블로깅은 즐거워~'를 모티브로 하는<br />
-(n)on blogging은<br />
-블로깅에 대한 부담을 줄여줍니다.
-여러분은 다른 사람들과의 소통을 통해 행복할 것이고.<br />(n)on blogging은 당신을 도울 것입니다.<br />
-<hr />
-With the motif of ‘blogging is fun~’<br />
-(n)on blogging<br />
-It reduces the burden of blogging.
-You will be happy through communication with other people.<br />(n)on blogging will help you.
+  <div>
+   <h4>
+     ✨ 블로그를 통해 의견을 표현하고 다른 사람과 소통을 할 수 있는 블로그 웹사이트입니다.
+   </h4>
+
+◦ 메인 페이지 : 친구의 블로그와 포스팅 확인 <br/>
+◦ 로그인, 로그아웃, 회원가입, 마이페이지 관리 <br/>
+◦ 게시글 업로드, 수정, 삭제 <br/>
+◦ 댓글 작성, 수정, 삭제 <br/>
+  </div>
+
 <hr />
 ✿ Enjoy & Happy to BLog '◡'✿</p>
 
